@@ -1,0 +1,7 @@
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\NumToWords.exe
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\appsettings.json
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\NumToWords.dll
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\NumToWords.deps.json
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\NumToWords.runtimeconfig.json
+G:\Personal\Job Interviews\Technology One\Assessment\NumToWords\NumToWords\obj\Release\net8.0\PubTmp\Out\NumToWords.pdb

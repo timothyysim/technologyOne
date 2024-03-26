@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Convert Numeric into Words</h1>
+    <div style="display: flex; flex-direction: row; margin-top: 100px;">
+        <div style="flex: 1; margin-right: 10px;">
+            <h1 class="display-4">Total Digits </h1>
+            <h4>(Up to 3 digits)</h4>
+            @using (Html.BeginForm("ConvertNumToText", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <fieldset>
+                    <div class="form-group">
+                        @Html.Label("Enter a number:")
+                        @Html.TextBox("number", null, new { @class = "form-control", maxlength = "3", onclick = "clearTextbox()", oninput = "this.value = this.value.replace(/[^0-9]/g, '')" })
+                    </div>
+                    <input style="margin-top:10px;" type="submit" value="Submit" />
+                </fieldset>
+            }
+        </div>
+
+        <div style="flex: 1; margin-left: 10px;">
+            <h1 class="display-4">Split Batch by 3</h1>
+            <h4>Up to Billion</h4>
+            @using (Html.BeginForm("ConvertUsingBatchSet", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <fieldset>
+                    <div class="form-group">
+                        @Html.Label("Enter a number:")
+                        @Html.TextBox("number", null, new { @class = "form-control" })
+                    </div>
+                    <input style="margin-top:10px;" type="submit" value="Submit" />
+                </fieldset>
+            }
+        </div>
+    </div>
+
+    @if (ViewBag.Result != null)
+    {
+        <div class="text-center" style="margin-top:200px">
+            <h1>Result:</h1>
+            <h4>@ViewBag.Result</h4>
+        </div>
+    }
+</div>
+<script>
+    function clearTextbox() {
+        document.getElementById("number").value = "";
+    }
+</script>

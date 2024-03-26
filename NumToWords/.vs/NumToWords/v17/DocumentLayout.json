@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|g:\\personal\\job interviews\\technology one\\assessment\\numtowords\\numtowords\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|solutionrelative:numtowords\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|g:\\personal\\job interviews\\technology one\\assessment\\numtowords\\numtowords\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|solutionrelative:numtowords\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|g:\\personal\\job interviews\\technology one\\assessment\\numtowords\\numtowords\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|solutionrelative:numtowords\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|g:\\personal\\job interviews\\technology one\\assessment\\numtowords\\numtowords\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|solutionrelative:numtowords\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|g:\\personal\\job interviews\\technology one\\assessment\\numtowords\\numtowords\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527BB639-2F9D-4E10-978F-1FC25AFBDA94}|NumToWords\\NumToWords.csproj|solutionrelative:numtowords\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NumToWords\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NumToWords\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T14:13:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\appsettings.json",
+              "RelativeDocumentMoniker": "NumToWords\\appsettings.json",
+              "ToolTip": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\appsettings.json",
+              "RelativeToolTip": "NumToWords\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T14:13:17.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NumToWords\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NumToWords\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T13:54:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NumToWords\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NumToWords\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:34:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NumToWords\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\Personal\\Job Interviews\\Technology One\\Assessment\\NumToWords\\NumToWords\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NumToWords\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA8AAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T09:34:38.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
