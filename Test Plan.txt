@@ -1,0 +1,37 @@
+Convert Num to Words Test Plan
+
+Functionality Test
+*Approach 1: Total Digits*
+
+1. Conversion test
+	- Enter any values from 0 - 999
+		- Test Ones (0-9)
+		- Test Teens (10-19)
+		- Test Tens (20-90)
+		- Test Hundred (100-999)
+	- Successfully convert to words
+	
+2. Textbox limit up to 3 digits
+	- Try to enter any values that exceed 3 digits
+
+*Approach 2: Split by batch*
+
+1. Conversion test	
+	- Enter any values from 0 - 999999999999999 (trillion)
+		- Test Ones (0-9)
+		- Test Teens (10-19)
+		- Test Tens (20-90)
+		- Test Hundred (100-999)
+		- Test Thousands (1000 - 999999999999999)
+	- Successfully convert to words
+	
+2 - Value limit test
+	- Enter any values higher than 999999999999999
+	- Result will show "Cannot convert number as it is too big. The highest number that can be converted would be up to trillion"
+
+3. Empty or invalid input
+	- Enter letters, symbols or NULL
+	- Results will show "Invalid input. Please enter a valid number"
+	
+
+
