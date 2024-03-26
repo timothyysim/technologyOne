@@ -103,7 +103,7 @@ namespace NumToWords.Controllers
             int totalDigit = number.ToString().Count();
             if (totalDigit > 3)
             {
-                NumWord = "Unable to compute. Kindly use Humanizer.";
+                NumWord = "Unable to compute.";
             }
             else if (number == 0)
             {
